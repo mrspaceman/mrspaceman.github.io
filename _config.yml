@@ -26,8 +26,9 @@ github_username:  mrspaceman
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-midnight
-plugins:
+theme: minima
+#remote_theme: "dracula/gh-pages"
+plugins:l
   - jekyll-feed
 
 # Exclude from processing.
